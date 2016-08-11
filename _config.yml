@@ -1,0 +1,14 @@
+layout_spectrum: 0.6886965094599873
+typography_spectrum: 0.1529187357518822
+color:
+  brandStrength: 0.12658591056242585
+  lightness: 0.12901465594768524
+  saturation: 0.1403274335898459
+  rhythmicContrast: 0.001923311734572053
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: panelesolares
